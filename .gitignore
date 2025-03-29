@@ -38,3 +38,6 @@ codegen/
 
 # Simulink cache files
 *.slxc
+
+# Non-public PDF articles
+articles/Using_Electroencephalography_to_Measure_Cognitive_Load.pdf
